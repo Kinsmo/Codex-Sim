@@ -5,6 +5,8 @@ without spending money on tokens 💸.
 
 > A local, offline Codex-like experience for demos, learning, and fun.
 
+For the authentic Codex experience, please visit https://chatgpt.com/codex
+
 <p align="center">
   <img width="500" alt="image"
        src="https://github.com/user-attachments/assets/6e0cd541-1b6c-4b99-877b-5bbd627d86a9" />
